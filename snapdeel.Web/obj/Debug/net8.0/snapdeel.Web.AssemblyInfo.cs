@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("snapdeel.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eaf4f96c24edf1350fcb9250c91f34ed9a77866")]
 [assembly: System.Reflection.AssemblyProductAttribute("snapdeel.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("snapdeel.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

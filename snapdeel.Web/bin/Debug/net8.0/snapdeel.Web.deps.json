@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "snapdeel.Web/1.0.0": {
+        "runtime": {
+          "snapdeel.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snapdeel.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

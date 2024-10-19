@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\snapdeel.Web.props" />
+</Project>
